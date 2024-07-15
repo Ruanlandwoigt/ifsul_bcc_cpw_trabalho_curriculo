@@ -1,0 +1,76 @@
+
+.titulo{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.texto{ color: white;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+    .lista{color: white;
+        text-align: left;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+
+.body{
+    background: rgb(2,0,36);
+   
+}
+
+.nav-tabs{
+    background-color: white;
+}
+
+
+
+.folha{
+    width: 50%;
+    margin: auto;
+    box-shadow: 5px 5px 10px #888888;
+    margin-top: 5%;
+    padding: 5%;
+    background-color: rgba(0, 140, 255, 0.267);
+    border-radius: 10px;
+
+}
+
+
+
+
+
+
+.ctt{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+
+.contato{
+    box-shadow: 5px 5px 10px #888888;
+    width: 50%;
+    margin: auto;
+    margin-top: 5%;
+    padding: 5%;
+    background-color: rgba(0, 140, 255, 0.267);
+    border-radius: 10px;
+}
+
+.formacao
+{
+    
+    box-shadow: 5px 5px 10px #888888;
+    width: 50%;
+    margin: auto;
+    margin-top: 5%;
+    padding: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: rgba(0, 140, 255, 0.267);
+    border-radius: 10px;
+}
